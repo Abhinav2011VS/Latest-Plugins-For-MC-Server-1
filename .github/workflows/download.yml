@@ -87,6 +87,11 @@ jobs:
           wget -O "datapacks/${datapack_urls[$url]}" "$url"
         done
 
+    - name: Configure Git
+      run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
     - name: Commit and Push Changes
       run: |
         # Check if any files were updated
