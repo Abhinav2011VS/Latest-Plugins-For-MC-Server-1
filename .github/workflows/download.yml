@@ -79,7 +79,6 @@ jobs:
           ["https://cdn.modrinth.com/data/TrPmg4ei/versions/CFqYIKTD/qraftyfied-INDUSTRIAL.zip"]="Industrial.zip"
           ["https://cdn.modrinth.com/data/lWDHr9jE/versions/J5CxwkWM/tectonic-datapack-v2.4.0a.zip"]="TectonicDatapack.zip"
           ["https://cdn.modrinth.com/data/EEIwvQVo/versions/HbNg7Lhz/tidal_towns_1_21.zip"]="TidalTowns.zip"
-          ["https://modrinth.com/datapack/terratonic/version/3.2"]="Terratonic.zip"
         )
         
         # Loop through each datapack URL and download it with the correct name
