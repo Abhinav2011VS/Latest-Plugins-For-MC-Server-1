@@ -43,7 +43,6 @@ jobs:
           ["https://cdn.modrinth.com/data/OhduvhIc/versions/ED8c5gtJ/veinminer-paper-2.2.1.jar"]="VeinMiner.jar"
           ["https://cdn.modrinth.com/data/P1OZGk5p/versions/EfNp6SMH/ViaVersion-5.1.2-SNAPSHOT.jar"]="ViaVersion.jar"
           ["https://cdn.modrinth.com/data/NpvuJQoq/versions/rtmgheCA/ViaBackwards-5.1.2-SNAPSHOT.jar"]="ViaBackwards.jar"
-          ["https://modrinth.com/plugin/viarewind/version/4.0.4-SNAPSHOT+213"]="ViaRewind.jar"
         )
         
         # Loop through each plugin URL and download it with the correct name
